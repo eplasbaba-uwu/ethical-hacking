@@ -40,15 +40,14 @@
 
 <h4>more info</h4>
 
-- if you have any ideas, feel free to contact me at [eplasbaba1@gmail.com] 
+- if you have any ideas, feel free to contact me at [eplasbaba@duck.com](mailto:eplasbaba@duck.com) 
 - I shall try to implement your ideas and will give credits to you as well.
 
 
 
-<h4>socials</h4>
+<h4>contact</h4>
 
-- Instagram: [@eplasbaba_isawesome](https://www.instagram.com/eplasbaba_isawesome/)
-- Reddit: [@eplasbaba_uwu](https://www.reddit.com/user/eplasbaba_uwu)
+- Instagram: [@walmartadvait](https://www.instagram.com/walmartadvait/)
 
 
 
