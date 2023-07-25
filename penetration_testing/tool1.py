@@ -1,12 +1,6 @@
 from socket import * 
 from threading import *
 
-
-########################################################
-##      THIS IS A HIGH-EFFICIENCY PORT SCANNER        ##
-## THIS PROJECT MAY NOT BE USED WITH MALICIOUS INTENT ##
-########################################################
-
 def connScan(target_host,port):
 	try:
 		main_sock=socket(AF_INET,SOCK_STREAM) 
