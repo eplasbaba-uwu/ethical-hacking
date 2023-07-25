@@ -1,4 +1,4 @@
-﻿# Basic hacking tools completely in python
+# Basic hacking tools completely in python
  
 <h5>IMPORTANT REMARKS</h5>
 

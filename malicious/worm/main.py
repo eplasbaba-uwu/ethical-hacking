@@ -8,7 +8,7 @@ File.close()
 
 def generator():
     file_name = ''
-    characters = '\u0020\u0020\u0020\u0020\u0020\u0020\u0020'
+    characters = 'abcdef'
     length = random.randint(1,5)
     for i in range(length):
         file_name += random.choice(characters)

@@ -13,7 +13,7 @@ def connScan(target_host,port):
 		main_sock.connect((target_host,port))
 		print("\n [ALERT!] %d/tcp open" %port)
 	except:
-		return False
+		print("no")
 
 	finally:
 		main_sock.close()
@@ -46,7 +46,7 @@ def main():
 
 
 	target_host= str(input("Enter host name: "))
-	target_ports= list(range(1, 100000)) # Number of ports to be scanned using range() *THIS CAN BE CHANGED 
+	target_ports= list(range(1, 1000)) # Number of ports to be scanned using range() *THIS CAN BE CHANGED 
 
 	# Scanning of port
 
